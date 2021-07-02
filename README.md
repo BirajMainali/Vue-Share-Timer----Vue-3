@@ -1,5 +1,11 @@
 # Vue-Share-Timer----Vue-3
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2717400f-c34d-45f2-aab1-aa1cee12b1fe/deploy-status)](https://app.netlify.com/sites/v-share-timer/deploys)
+
 A simple shareable timer using Vue 3
+
+Demo: https://v-share-timer.netlify.app/
+
 
 ### Infrastructure
 

@@ -4,7 +4,7 @@
       <h5 class="text-green-500 text-2xl text-center p-2 float-left">
         Your Timer
       </h5>
-      <router-link :to="{path: '/'}" class="float-right px-2 py-1 border-blue-100 border-b-2 shadow-lg">
+      <router-link :to="{path: '/'}" class="float-right px-2 py-1 border-blue-100 border-b-2 shadow-lg transition-all  hover:border-green-500">
         New Timer
       </router-link>
     </div>
